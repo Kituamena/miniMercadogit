@@ -1,0 +1,2 @@
+# miniMercadogit
+projecto para Lojas
